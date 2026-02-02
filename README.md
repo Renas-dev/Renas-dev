@@ -1,6 +1,6 @@
 ## Hey, I'm Renas 
 
-Junior Full Stack Developer who enjoys building backend systems, APIs and shipping things that actually run in production.
+Junior Full Stack Developer who enjoys building backend systems, APIs and shipping things that run in production.
 
 I like understanding how things work **end-to-end** — from API design to containers, pipelines and deployment.
 
