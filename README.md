@@ -1,8 +1,5 @@
 ## Hey, I'm Renas 
 
-[![CI](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/ci.yml)
-[![Deploy](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/deploy.yml)
-
 Junior Full Stack Developer who enjoys building backend systems, APIs and shipping things that actually run in production.
 
 I like understanding how things work **end-to-end** — from API design to containers, pipelines and deployment.
@@ -15,13 +12,21 @@ I like understanding how things work **end-to-end** — from API design to conta
 - REST APIs
 - SQL (PostgreSQL, MySQL)
 
+---
+
 ### DevOps & infrastructure
+
+[![CI](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/ci.yml)
+[![Deploy](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/deploy.yml)
+
 - Docker
 - CI/CD pipelines (GitHub Actions)
 - Separate CI and CD runners
 - Automated build, test and deploy
 - Self-hosted VPS deployments
 - Kubernetes (fundamentals)
+
+---
 
 ### Other experience
 - PHP (Laravel)
