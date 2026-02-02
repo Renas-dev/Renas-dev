@@ -16,8 +16,8 @@ I like understanding how things work **end-to-end** — from API design to conta
 
 ### DevOps & infrastructure
 
-[![CI](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/ci.yml)
-[![Deploy](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Renas-dev/EepyTimes.com/actions/workflows/deploy.yml)
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-success)
+![CD](https://img.shields.io/badge/CD-VPS_Deploy-success)
 
 - Docker
 - CI/CD pipelines (GitHub Actions)
